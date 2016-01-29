@@ -1,0 +1,40 @@
+<?php
+
+return [
+	"welcome" => "Welcome!",
+	"sign_up" => "Sign up",
+	"login" => "Login",
+	"sign_up_form" => "Sign up form",
+	"login_help" => "",
+	"resend_validation" => "Resend validation email",
+	"register_help" => "Password must be at least 6 characters, must contain a lowercase, a number and a maximum of 20 characters",
+	"password" => "Password",
+	"firstname" => "Firstname",
+	"lastname" => "Lastname",
+	"re_password" => "Confirm password",
+	"terms_agree" => "I have read and agree to the Terms & Conditions",
+	"remeber_me" => "Remember me",
+	"register_fail" => "Registration failed",
+	"register_success" => "Thanks for registering!\r\nSoon you will receive an email to verify your account.\r\nPlease follow the instructions contained in the email",
+	"welcome_subject" => "Welcome to linksdirector.ro",
+	"welcome_body" => "Hello,\r\nWelcome to our website.\r\nIn order to be able to use authenticated users benefits, please confirm your email following the link below:\r\n",
+	"confirm_success" => "You have successfully verified your account.",
+	"invalid_code" => "Invalid or expired confirmation code",
+	"logout" => "Your are now logged out!",
+	"login_error" => "We were unable to sign you in.",
+	"email_unconfirmed" => "This email is not confirmed!",
+	"password_forgotten" => "Forgotten password?",
+	"password_reset" => "Password reset",
+	"password_reset_form" => "To reset your password, complete this form:",
+	"password_reset_expiration" => "This link will expire in :exp minutes",
+	"set_new_password" => "Set Your New Password",
+	"password_changed" => "Your password was successfully changed.",
+	"account_suspended" => "This account is suspended",
+	"resend_help" => "If the email provided is valid you will receive an email shortly telling you how to confirm your account",
+	"reset_password_help" => "If the email provided is valid you will receive an email shortly telling you how to reset your password",
+	"new_password_help" => "Enter your email address, a new password and confirm it",
+	"resend_success" => "Soon you will receive an email to verify your account. <br Please follow the instructions contained in the email",
+	
+	//"Feel free to explore and add new websites in our web directory."
+	
+];

@@ -1,0 +1,51 @@
+<?php
+
+return array(
+	
+	"meta_description" => "Director web SEO friendly cu înscriere gratuită. Avantajele sunt multiple. Este foarte uşor de utilizat.",
+	"meta_keywords" => "catalog web, director web, director web SEO friendly, înscriere site, lisă site",
+	"main-url" => "linksdirector.ro",
+	"main-description" => "Director web SEO Friendly",
+	"mobile_friendly" => "&#206;ncearc&#259;-ne de pe mobil!",
+	"not-found" => "Pagina solicitată nu a putut fi găsită.",
+	"home" => "Acasă",
+	"search" => "Caută",
+	"info" => "Info",
+	"hi" => "Salut",
+	"logout" => "Doconectează-te",
+	"admin" => "Admin",
+	"yes" => "Da",
+	"no" => "Nu",
+	"name" => "Nume",
+	"reason" => "Motiv",
+	"choose" => "Alege",
+	"add" => "Adaugă",
+	"send" => "Trimite",
+	"contact" => "Contact",
+	"terms" => "Termeni şi condiţii",
+	"contact_form" => "Contactează-ne",
+	"contact_help" => "Pentru orice fel de problemă legată de acest director ne poţi contacta oricând.",
+	"email_from_site" => "Email de pe site",
+	"send_by" => "Trimis de",
+	"message_sent" => "Mesaj trimis",
+	"update" => "Actualizează",
+	"edit" => "Editează",
+	"delete" => "Şterge",
+	"approve" => "Aprobă",
+	"disapprove" => "Dezaprobă",
+	"more" => "mai mult",
+	"send_email" => "Trimite email",
+	"search_results" => "rezultate pentru :search_term",
+	"search_result" => "rezultat pentru :search_term",
+	"no_results" => "Nici un rezultat pentru :serch_term",
+	
+	"in" => "În",
+	"for" => "pentru",
+	"wrote" => "a scris",
+	
+	"details" => "Detalii",
+	"close" => "&#206;nchide",
+	"anonymous_user" => "Anonim",
+	
+	
+);
